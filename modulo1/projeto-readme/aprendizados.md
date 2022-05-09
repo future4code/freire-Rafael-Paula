@@ -1,0 +1,1 @@
+Essa semana eu conheci a Labenu, os mentores e os colegas, aprendi a mexer no terminal, conheci o Github e estou conhecendo o VSCode!
